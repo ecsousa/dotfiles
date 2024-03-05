@@ -1,0 +1,8 @@
+Host deimos
+    HostName eacsousa.deimos.bysh.me
+    User eacsousa
+
+Host flix
+    Hostname openssh-alpine-ecsousa.daredevil.mygiga.cloud
+    User ecsousa
+    Port 34519
